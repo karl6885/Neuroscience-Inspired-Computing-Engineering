@@ -4,7 +4,10 @@ Team project **'NICE'**(Neuroscience-Inspired-Computing-Engineering) by **New-Le
 ## Neuroscience
 Study based on 'Neuroscience: Exploring the brain(4th edition,  Mark F. Bear)
 
-- 
+- Ch 4. The Action Potential
+- Ch 9. The Eye
+- Ch 10. Central Visual System
+- Ch 11. The Auditory and Vestibular Systems
 
 ## Paper review
 
