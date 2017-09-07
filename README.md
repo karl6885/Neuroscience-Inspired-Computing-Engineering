@@ -2,7 +2,8 @@
 Team project **'NICE'**(Neuroscience-Inspired-Computing-Engineering) by **New-Learn** (Undergraduate society for neuroscience in Korea University)
 
 ## Neuroscience
-Study based on 'Neuroscience: Exploring the brain(4th edition,  Mark F. Bear)
+Study based on the book **'Neuroscience: Exploring the brain(4th edition,  Mark F. Bear)'
+**
 
 - Ch 4. The Action Potential
 - Ch 9. The Eye
